@@ -437,7 +437,14 @@
     display: none;
   }
   .hrstyle2 {
-    display: none;
+    width: 85%;
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgba(192, 192, 192, 0.212);
+    background-color: chartreuse;
+    height: 1px;
+    border: none;
   }
 }
 
@@ -613,9 +620,6 @@
 
 @media (max-width: 767px) {
   .navlink a {
-    display: none;
-  }
-  .hrstyle2 {
     display: none;
   }
 
